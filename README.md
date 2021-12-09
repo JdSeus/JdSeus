@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/juliano-seus-89619a19b" target="_blank">LinkedIn</a> •
+  <a href="mailto:julianoseusdev@outlook.com">E-mail</a> 
+</p>
 
 <!--
 **JdSeus/JdSeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
