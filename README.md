@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23417C9F&size=32&vCenter=true&height=35&lines=Hello+World)](https://git.io/typing-svg)
 
 ## Contact :speech_balloon:
 <p align="center">
