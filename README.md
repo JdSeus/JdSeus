@@ -2,9 +2,6 @@
 
 ## Contact :speech_balloon:
 <p align="left">
-  <a href="mailto:julianoseusdev@outlook.com">
-    <img align="center" alt="Juliano's Outlook" height="30px" src="https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
-  </a> 
     <a href="mailto:julianoseusdev@gmail.com">
     <img align="center" alt="Juliano's Gmail" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
